@@ -1,0 +1,11 @@
+.right {
+    float: right;
+    font-size: .75em;
+}
+.note {
+    background: white;
+    padding: 10px;
+    width: 95%;
+    border: 1px solid black;
+    margin: 5px;
+}
